@@ -19,7 +19,7 @@
 {% endif %}
 
 <!doctype html>
-<html class="min-height-full">
+<html lang="ru" class="min-height-full">
   <head>
     <meta charset="utf-8">
     <title>{{ page_title }}</title>
@@ -28,7 +28,8 @@
     <meta property="og:image" content="{{ user.avatar_url }}" />
     <meta property="og:description" content="{{ meta_description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
+    <link href="{{ '/assets/styles.css' | relative_url }}" rel="stylesheet" type="text/css">
 
     {% if jekyll.environment == 'production' and site.google_analytics != '' %}
     <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
