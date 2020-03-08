@@ -1,0 +1,93 @@
+layout: stacked
+style: dark
+
+google_analytics: UA-90439782-2
+ya_metrika: 47541358
+google_verification: 6GXUozcEfaPdh8Qcr-0qBY2AV8MkL-QoQ66FpbytieM
+yandex_verification: 3051c5823192d0b9
+
+plugins:
+  - jekyll-octicons
+  - jemoji
+
+permalink: /:title/
+
+projects:
+  sort_by: stars
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 3
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+
+social_media:
+  website: https://ctlos.github.io
+  telegram: ctlos
+  vk: ctlos
+  youtube: creioyt
+  keybase: cvc
+
+products:
+  - name: Толстовка худи Fruit of the Loom
+    url_prod: https://printdirect.ru/storefront/shared_info/8608036
+    img_prod: https://cdn46.printdirect.ru/cache/product/65/b7/8608036/tov/all/480z480_front_1307_0_0_0_f0e0ce1808e9663e5ae2934a1a2f.jpg
+    price: 2620
+
+  - name: Свитшот Stedman
+    url_prod: https://printdirect.ru/storefront/shared_info/8608033
+    img_prod: https://cdn46.printdirect.ru/cache/product/d0/8e/8608033/tov/all/480z480_front_1912_0_0_0_182d9030ae5d2267ae8534ed927f.jpg
+    price: 2720
+
+  - name: Мужская футболка Fruit of the Loom
+    url_prod: https://printdirect.ru/storefront/shared_info/8608023
+    img_prod: https://cdn46.printdirect.ru/cache/product/a8/bd/8608023/tov/all/480z480_front_1266_0_0_0_dad4b00bc629b04740391bef74f2.jpg
+    price: 1370
+
+  - name: Мужская футболка Fruit of the Loom # синяя
+    url_prod: https://printdirect.ru/storefront/shared_info/8608025
+    img_prod: https://cdn46.printdirect.ru/cache/product/0d/30/8608025/tov/all/480z480_front_1251_0_0_0_6bc98d969fe5344c501505a61111.jpg
+    price: 1690
+
+  - name: Кепка Trucker
+    url_prod: https://printdirect.ru/storefront/shared_info/8608150
+    img_prod: https://cdn46.printdirect.ru/cache/product/6d/45/8608150/tov/all/480z480_front_698_0_0_0_1a8355c948e2a8790c1d3a5bb445.jpg
+    price: 790
+
+  - name: Кружка с ложкой
+    url_prod: https://printdirect.ru/storefront/shared_info/8608022
+    img_prod: https://cdn46.printdirect.ru/cache/product/35/ed/8608022/tov/all/480z480_front_998_0_0_0_d119de0a84531cdc05f8babb4d69.jpg
+    price: 830
+
+  - name: Коврик для мыши
+    url_prod: https://printdirect.ru/storefront/shared_info/6115120
+    img_prod: https://cdn46.printdirect.ru/cache/product/e4/18/6115120/tov/all/480z480_front_26_0_0_0_7798e9aa6c2dc0c0b2f08f786096.jpg
+    price: 650
+
+  - name: Сумка на плечо
+    url_prod: https://printdirect.ru/storefront/shared_info/8608043
+    img_prod: https://cdn46.printdirect.ru/cache/product/e8/20/8608043/tov/all/480z480_front_988_0_0_0_b3f5312c122210ee46dfe5e44080.jpg
+    price: 1590
+
+  - name: Фартук
+    url_prod: https://printdirect.ru/storefront/shared_info/8608056
+    img_prod: https://cdn46.printdirect.ru/cache/product/eb/45/8608056/tov/all/480z480_front_735_0_0_0_0dc84f5c07e0b7a9a90f7ce3e108.jpg
+    price: 840
+
+  - name: Подушка "круг"
+    url_prod: https://printdirect.ru/storefront/shared_info/8608040
+    img_prod: https://cdn46.printdirect.ru/cache/product/82/a3/8608040/tov/all/480z480_front_2095_0_0_0_269dabb2480f769981117c840dda.jpg
+    price: 1190
+
+  - name: Часы
+    url_prod: https://printdirect.ru/storefront/shared_info/8608052
+    img_prod: https://cdn46.printdirect.ru/cache/product/58/91/8608052/tov/all/480z480_front_1831_0_0_0_373a358227f76ff448f753411c8c.jpg
+    price: 1540
+
+  - name: Настенный календарь
+    url_prod: https://printdirect.ru/storefront/shared_info/6115082
+    img_prod: https://cdn46.printdirect.ru/cache/product/e1/e5/6115082/tov/all/480z480_front_558_0_0_0_24c29ad88ae2ca2c1ce3ef4e5c6f.jpg
+    price: 625
