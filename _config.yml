@@ -11,7 +11,7 @@ plugins:
   - jekyll-octicons
   - jemoji
 
-permalink: /:title/
+permalink: /:title
 
 projects:
   sort_by: stars
